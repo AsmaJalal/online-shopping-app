@@ -1,0 +1,114 @@
+.offcanvas {
+	width: 32vw !important;
+}
+
+.offcanvas-title {
+	text-transform: uppercase;
+	font-family: "Concert One", cursive;
+	font-size: 1.75rem !important;
+}
+
+.offcanvas-header {
+	padding-bottom: 0 !important;
+}
+
+.shopping-cart .items {
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+}
+
+.cart-item {
+	border-top: 1px solid #c5c5c5;
+	padding: 1rem 0;
+	display: flex;
+	gap: 1rem;
+}
+
+.cart-item span {
+	width: 36%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100px;
+	flex: 1 0 auto;
+}
+
+.cart-item > div {
+	width: 60%;
+	flex: 1 0 auto;
+}
+
+.cart-item img {
+	max-width: 100%;
+	max-height: 100%;
+	width: auto;
+	height: auto;
+}
+
+.cart-item svg {
+	cursor: pointer;
+	width: 0.65rem;
+	height: 0.65rem;
+}
+
+.cart-item p {
+	margin: 0;
+}
+
+.cart-item .price,
+.cart-item .desc,
+.cart-item input,
+.cart-item > div > div > p,
+.shopping-cart span,
+.total-cont p {
+	font-family: "Nunito", sans-serif;
+}
+
+.cart-item .price,
+.shopping-cart span,
+.total-cont div:first-child p {
+	font-weight: bold;
+}
+
+.cart-item .title,
+.total-cont span,
+.total-cont button {
+	font-family: "Nunito Sans", sans-serif;
+}
+
+.total-cont h5 {
+	font-size: 1.4rem;
+	width: 100%;
+}
+
+.total-cont > div:first-child,
+.total-cont > div:nth-child(3) {
+	border-bottom: 1px solid #c5c5c5;
+}
+
+.cart-item .desc {
+	max-height: 50px;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+	width: calc(100%);
+	color: gray;
+}
+
+.cart-item input {
+	font-size: 14px;
+	width: 30%;
+}
+
+@media screen and (max-width: 991.9px) {
+	.offcanvas {
+		width: 55vw !important;
+	}
+}
+
+@media screen and (max-width: 591.9px) {
+	.offcanvas {
+		width: 90vw !important;
+	}
+}

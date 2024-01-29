@@ -1,0 +1,56 @@
+.landing {
+	min-height: calc(100vh - 40px);
+	overflow-x: hidden;
+	width: 100%;
+}
+
+.landing h1 {
+	margin-top: 1rem;
+	font-family: "Lilita One", cursive;
+	text-transform: uppercase;
+	font-size: min(15vw, 130px);
+	color: rgb(255, 84, 66);
+	line-height: 0.9;
+	text-shadow: 2px 2px rgb(83, 30, 105);
+}
+
+.landing div {
+	text-align: center;
+}
+
+.landing button,
+.landing p {
+	font-family: "Varela Round", sans-serif;
+	margin-bottom: 0;
+	font-size: 16px;
+	color: #1c0724;
+	font-weight: bold;
+}
+
+.landing button {
+	display: none;
+	padding: 0.8rem;
+	border: 1px solid rgb(255, 84, 66);
+	border-radius: 5px;
+	background: none;
+	margin-top: 2rem;
+	background-color: #ffffff70;
+}
+
+@media screen and (max-width: 575.9px) {
+	.landing {
+		padding: 1rem;
+		background: url("../../assets/img/abstract-elegant-transparent-wave-background_592487-1244.jpg")
+			no-repeat;
+		background-size: contain;
+		background-position: bottom center;
+	}
+
+	.landing div {
+		margin-bottom: 2rem;
+	}
+
+	.landing button {
+		display: block;
+	}
+}

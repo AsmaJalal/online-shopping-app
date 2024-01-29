@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Concert+One&family=Nunito+Sans&family=Nunito&family=Varela+Round&display=swap");
+
+#root {
+	min-height: 100vh;
+}
+
+* {
+	box-sizing: border-box;
+}

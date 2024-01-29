@@ -1,0 +1,29 @@
+.modal-title {
+	text-align: center;
+	width: 100%;
+	font-family: "Nunito Sans", sans-serif;
+	font-weight: bold;
+}
+
+.modal-header {
+	border: none;
+	padding-bottom: 0;
+}
+
+.modal-body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 1rem;
+}
+
+.modal-body p {
+	margin: 0;
+	text-align: center;
+	font-family: "Nunito", sans-serif;
+}
+
+.modal-body img {
+	width: 25%;
+	height: 25%;
+}
