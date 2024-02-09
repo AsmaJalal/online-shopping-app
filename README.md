@@ -1,5 +1,5 @@
 # This is a online-shopping-app
-# A Ecommerce Website made with React.js Framework and configureStore @reduxjs/toolkit.
+## A Ecommerce Website made with React.js Framework and configureStore @reduxjs/toolkit.
 
 ## Features
 - Fully Responsive

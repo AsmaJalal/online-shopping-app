@@ -27,7 +27,7 @@ const AboutPage = () => {
         <div className="row">
           <div className="col-md-3 col-sm-6 mb-3 px-3">
             <div className="card h-100">
-              <img className="card-img-top img-fluid" src="https://images.pexels.com/photos/6995067/pexels-photo-6995067.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" height={160} />
+              <img className="card-img-top img-fluid" src="https://raw.githubusercontent.com/AsmaJalal/online-shopping-app/master/public/assets/mens.jpeg" alt="" height={160} />
               <div className="card-body">
                 <h5 className="card-title text-center">Mens's Clothing</h5>
               </div>
@@ -35,7 +35,7 @@ const AboutPage = () => {
           </div>
           <div className="col-md-3 col-sm-6 mb-3 px-3">
             <div className="card h-100">
-              <img className="card-img-top img-fluid" src="https://images.pexels.com/photos/3119215/pexels-photo-3119215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" height={160} />
+              <img className="card-img-top img-fluid" src="https://raw.githubusercontent.com/AsmaJalal/online-shopping-app/master/public/assets/Women.jpeg" alt="" height={160} />
               <div className="card-body">
                 <h5 className="card-title text-center">Women's Clothing</h5>
               </div>
@@ -43,7 +43,7 @@ const AboutPage = () => {
           </div>
           <div className="col-md-3 col-sm-6 mb-3 px-3">
             <div className="card h-100">
-              <img className="card-img-top img-fluid" src="https://images.pexels.com/photos/1927259/pexels-photo-1927259.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" height={160} />
+              <img className="card-img-top img-fluid" src="https://raw.githubusercontent.com/AsmaJalal/online-shopping-app/master/public/assets/Jewelery.jpeg" alt="" height={160} />
               <div className="card-body">
                 <h5 className="card-title text-center">Jewelery</h5>
               </div>
@@ -51,7 +51,7 @@ const AboutPage = () => {
           </div>
           <div className="col-md-3 col-sm-6 mb-3 px-3">
             <div className="card h-100">
-              <img className="card-img-top img-fluid" src="https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" height={160} />
+              <img className="card-img-top img-fluid" src="https://raw.githubusercontent.com/AsmaJalal/online-shopping-app/master/public/assets/Electroics.jpeg" alt="" height={160} />
               <div className="card-body">
                 <h5 className="card-title text-center">Electronics</h5>
               </div>
