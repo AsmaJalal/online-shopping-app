@@ -36,6 +36,45 @@
 ## Pagination: 
 - If the API supports pagination, implement pagination functionality to fetch and display products in smaller, more manageable chunks.
 
+##📂 What's inside?
+A quick look at the folder structure of this project.
+
+    .
+    ├── public
+    │   ├───assets
+    │   │   ├───images
+    │   ├───index.html
+    │   ├───logo.png
+    │   ├───manifest.json
+    ├── src
+    │   ├───components
+    │   │   ├───Footer.jsx
+    │   │   ├───index.js
+    │   │   ├───main.jsx
+    │   │   ├───Navbar.jsx
+    │   │   ├───Products.jsx
+    │   ├───pages
+    │   │   ├───AboutPage.jsx
+    │   │   ├───Cart.jsx
+    │   │   ├───Checkout.jsx
+    │   │   ├───ContactPage.jsx
+    │   │   ├───Home.jsx
+    │   │   ├───index.js
+    │   │   ├───Login.jsx
+    │   │   ├───PageNotFound.jsx
+    │   │   ├───Product.jsx
+    │   │   ├───Products.jsx
+    │   │   ├───Register.jsx
+    │   ├───redux
+    │   │   ├───action
+    │   │   │   ├───index.js
+    │   │   ├───reducer
+    │   │   │   ├───handleCart.js
+    │   │   │   ├───index.js
+    │   │   │   ├───store.js
+    │   └───index.js
+    
+
 
 # Getting Started with Create React App
 
