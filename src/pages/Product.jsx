@@ -143,9 +143,7 @@ const Product = () => {
                       {item.title.substring(0, 15)}...
                     </h5>
                   </div>
-                  {/* <ul className="list-group list-group-flush">
-                    <li className="list-group-item lead">${product.price}</li>
-                  </ul> */}
+                  
                   <div className="card-body">
                     <Link
                       to={"/product/" + item.id}

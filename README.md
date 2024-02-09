@@ -1,3 +1,42 @@
+# This is a online-shopping-app
+# A Ecommerce Website made with React.js Framework and configureStore @reduxjs/toolkit.
+
+## Features
+- Fully Responsive
+## Product Listing: 
+- Fetch products from the API and display them in a grid or list format on the home page or a dedicated products page (Products component).
+
+## Product Details: 
+- Implement a feature where users can click on a product to view its details. You can use the Product component to display detailed information about a specific product.
+
+## Categories and Filtering: 
+- Allow users to filter products by categories such as electronics, clothing, etc. You can utilize the category information provided by the API to implement this feature.
+
+## Search Functionality: 
+- Implement a search bar that allows users to search for products based on their titles or descriptions. You can use the search functionality provided by the API.
+
+## Shopping Cart: 
+- Implement a shopping cart feature where users can add products to their cart and view the items they've added. Use the Cart component to display the cart contents.
+
+## User Authentication: 
+- Implement user authentication using the Login and Register components. Allow users to create accounts, log in, and securely access their profile and order history.
+
+## Checkout Process: 
+- Allow users to proceed to checkout once they've added items to their cart. Use the Checkout component to collect shipping and payment information before completing the purchase.
+
+## Order History: 
+- Implement a feature where registered users can view their order history. You can use the fakestoreapi.com endpoints to simulate order placement and retrieval.
+
+## Responsive Design: 
+- Ensure that your app is mobile-friendly and responsive across different devices and screen sizes to provide a seamless shopping experience.
+
+## Loading Indicators: 
+- Display loading indicators or placeholders while fetching data from the API to provide feedback to users and improve the perceived performance of your app.
+
+## Pagination: 
+- If the API supports pagination, implement pagination functionality to fetch and display products in smaller, more manageable chunks.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
