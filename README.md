@@ -12,6 +12,7 @@
 
 ## Features
 - Fully Responsive
+
 ## Product Listing: 
 - Fetch products from the API and display them in a grid or list format on the home page or a dedicated products page (Products component).
 
@@ -84,6 +85,10 @@ A quick look at the folder structure of this project.
     │   └───index.js
     
 
+* [React](https://reactjs.org/)
+* [Redux](https://redux.js.org/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Fake Store API](https://fakestoreapi.com/)
 
 # Getting Started with Create React App
 
