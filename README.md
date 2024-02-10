@@ -1,6 +1,10 @@
 # This is a online-shopping-app
 ## A Ecommerce Website made with React.js Framework and configureStore @reduxjs/toolkit.
 
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/AsmaJalal/online-shopping-app/master/public/assets/ss4.jpg)
+
 ## Features
 - Fully Responsive
 ## Product Listing: 
