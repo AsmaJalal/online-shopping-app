@@ -15,7 +15,9 @@
 ## Gif Images
 
 
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/react-apps-5ed78.appspot.com/o/ecom1.gif)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/react-apps-5ed78.appspot.com/o/ecom1.gif?alt=media&token=417cd4c6-5d32-420b-88fe-ea99517f4cbb)
+
+![App Screenshot](https://github.com/AsmaJalal/online-shopping-app/blob/master/public/images/ecom.gif)
 
 ![App Screenshot](https://github.com/AsmaJalal/online-shopping-app/blob/master/public/images/ecom.gif)
 
